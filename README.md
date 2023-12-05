@@ -5,11 +5,13 @@ Thank you for taking the time to view my portfolio. This repo contains all the a
 
 I placed each folder in chonological order from my first programming course forward. Before joining NSCC I never thought I would be able to learn how to code, however I hope this document shows my progression from not knowing what an int is to now.
 
-I have also attached my resume to the bottom of the repo if interested!
+I hope to take this foundation forward into my career and am excited to learn and improve everyday in whatever position I'm put into.
+
+Finally, I also attached my resume to the bottom of the repo if interested!
 
 # Folders
 
-  1- Highlights:
+  1 - Highlights:
       This contains my favorite projects over the past 2 years.
       
   2 - Intro to Programming (Java):
