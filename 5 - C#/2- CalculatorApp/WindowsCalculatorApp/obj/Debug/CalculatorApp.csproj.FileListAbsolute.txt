@@ -1,0 +1,12 @@
+B:\school\Current\C# OOP\Assignments\3-CalculatorApp\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+B:\school\Current\C# OOP\Assignments\3-CalculatorApp\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+B:\school\Current\C# OOP\Assignments\3-CalculatorApp\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+B:\school\Current\C# OOP\Assignments\3-CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+B:\school\Current\C# OOP\Assignments\3-CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.SuggestedBindingRedirects.cache
+B:\school\Current\C# OOP\Assignments\3-CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+B:\school\Current\C# OOP\Assignments\3-CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+B:\school\Current\C# OOP\Assignments\3-CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+B:\school\Current\C# OOP\Assignments\3-CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+B:\school\Current\C# OOP\Assignments\3-CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+B:\school\Current\C# OOP\Assignments\3-CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
+B:\school\Current\C# OOP\Assignments\3-CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.strings.resources

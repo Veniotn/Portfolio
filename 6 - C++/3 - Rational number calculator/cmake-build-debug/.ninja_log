@@ -1,0 +1,27 @@
+# ninja log v5
+2	340	7015581359654068	build.ninja	ab70171a605bb93b
+11	1246	7015252030086685	CMakeFiles/2___Rationals.dir/RationalNumber.cpp.obj	38031ac1beabf951
+7	2467	7015252042267924	CMakeFiles/2___Rationals.dir/util.cpp.obj	a1b35e0eb82448a9
+3	846	7015252026089573	CMakeFiles/2___Rationals.dir/main.cpp.obj	719d7058ad4f91af
+2503	3484	7015252052444029	2___Rationals.exe	e2a968cc731827b0
+2	1002	7015581359654068	build.ninja	ab70171a605bb93b
+4	852	7015581369362880	CMakeFiles/2___Rationals.dir/src/main.cpp.obj	b1083023917462d1
+8	1240	7015581373226380	CMakeFiles/2___Rationals.dir/src/RationalNumber.cpp.obj	fc5bb061f8519513
+0	2654	7015581387316995	CMakeFiles/2___Rationals.dir/src/util.cpp.obj	d515d2a0560e09d8
+2654	3839	7015581399190190	2___Rationals.exe	30908a100033c0ee
+3	716	7015588365906604	CMakeFiles/2___Rationals.dir/src/main.cpp.obj	b1083023917462d1
+716	1739	7015588376105052	2___Rationals.exe	30908a100033c0ee
+3	746	7015692927021952	CMakeFiles/2___Rationals.dir/src/main.cpp.obj	b1083023917462d1
+8	1160	7015692931145688	CMakeFiles/2___Rationals.dir/src/RationalNumber.cpp.obj	fc5bb061f8519513
+1160	2693	7015692946446249	2___Rationals.exe	30908a100033c0ee
+2	1070	7015693322705917	CMakeFiles/2___Rationals.dir/src/RationalNumber.cpp.obj	fc5bb061f8519513
+1071	2084	7015693332820157	2___Rationals.exe	30908a100033c0ee
+3	1398	7015693388644360	CMakeFiles/2___Rationals.dir/src/RationalNumber.cpp.obj	fc5bb061f8519513
+1399	2469	7015693399325636	2___Rationals.exe	30908a100033c0ee
+2	1109	7015697006374840	CMakeFiles/2___Rationals.dir/src/RationalNumber.cpp.obj	fc5bb061f8519513
+1109	2140	7015697016655015	2___Rationals.exe	30908a100033c0ee
+3	1101	7015697491009917	CMakeFiles/2___Rationals.dir/src/RationalNumber.cpp.obj	fc5bb061f8519513
+1101	2157	7015697501545666	2___Rationals.exe	30908a100033c0ee
+13	1225	7015950641914737	CMakeFiles/2___Rationals.dir/src/main.cpp.obj	b1083023917462d1
+18	1591	7015950645567257	CMakeFiles/2___Rationals.dir/src/RationalNumber.cpp.obj	fc5bb061f8519513
+1591	3177	7015950661387733	2___Rationals.exe	30908a100033c0ee

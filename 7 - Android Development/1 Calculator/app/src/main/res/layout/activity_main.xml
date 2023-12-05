@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0E0D0D"
+    tools:context=".MainActivity">
+
+    <TableLayout
+        android:id="@+id/tableLayout"
+        android:layout_width="match_parent"
+        android:layout_height="729dp"
+        android:shrinkColumns="1,2,3"
+        android:stretchColumns="1,2,3"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/upperNumView"
+                android:layout_width="414dp"
+                android:layout_height="85dp"
+                android:layout_span="4"
+                android:gravity="right|center_vertical"
+                android:textColor="#B0D84242"
+                android:textSize="33sp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/lowerNumView"
+                android:layout_width="394dp"
+                android:layout_height="190dp"
+                android:layout_span="4"
+                android:gravity="right|center_vertical"
+                android:text="@string/zeroText"
+                android:textAlignment="textEnd"
+                android:textColor="#DFD4CED5"
+                android:textSize="70sp"
+                android:textStyle="bold" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="86dp">
+
+            <Button
+                android:id="@+id/clearButton"
+                android:layout_width="wrap_content"
+                android:layout_height="85dp"
+                android:layout_column="1"
+                android:layout_gravity="center"
+                android:backgroundTint="#ABB8C9"
+                android:text="@string/clearButton" />
+
+            <Button
+                android:id="@+id/deleteButton"
+                android:layout_width="wrap_content"
+                android:layout_height="85dp"
+                android:layout_column="2"
+                android:layout_gravity="center"
+                android:backgroundTint="#888181"
+                android:text="@string/deleteSymbol" />
+
+            <Button
+                android:id="@+id/divideButton"
+                android:layout_width="wrap_content"
+                android:layout_height="85dp"
+                android:layout_column="3"
+
+                android:layout_gravity="center"
+                android:backgroundTint="#888181"
+                android:gravity="center"
+                android:text="@string/divButton" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/sevenButton"
+                android:layout_width="wrap_content"
+                android:layout_height="85dp"
+                android:layout_gravity="center"
+                android:text="@string/sevenButton" />
+
+            <Button
+                android:id="@+id/eightButton"
+                android:layout_width="73dp"
+                android:layout_height="85dp"
+                android:layout_gravity="center"
+                android:text="@string/eightButton" />
+
+            <Button
+                android:id="@+id/nineButton"
+                android:layout_width="wrap_content"
+                android:layout_height="85dp"
+                android:layout_gravity="center"
+                android:text="@string/nineButton" />
+
+            <Button
+                android:id="@+id/multiplyButton"
+                android:layout_width="wrap_content"
+                android:layout_height="85dp"
+                android:layout_gravity="center"
+                android:backgroundTint="#888181"
+                android:gravity="center"
+                android:text="@string/multiplyButton" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/fourButton"
+                android:layout_width="wrap_content"
+                android:layout_height="85dp"
+                android:text="@string/fourButton" />
+
+            <Button
+                android:id="@+id/fiveButton"
+                android:layout_width="wrap_content"
+                android:layout_height="85dp"
+                android:layout_gravity="center"
+                android:text="@string/fiveButton" />
+
+            <Button
+                android:id="@+id/sixButton"
+                android:layout_width="90dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:text="@string/sixButton" />
+
+            <Button
+                android:id="@+id/subtractButton"
+                android:layout_width="wrap_content"
+                android:layout_height="85dp"
+                android:layout_gravity="center"
+                android:backgroundTint="#888181"
+                android:gravity="center"
+                android:text="@string/subtractSymbol" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/oneButton"
+                android:layout_width="wrap_content"
+                android:layout_height="85dp"
+                android:layout_gravity="center"
+                android:text="@string/oneButton" />
+
+            <Button
+                android:id="@+id/twoButton"
+                android:layout_width="wrap_content"
+                android:layout_height="85dp"
+                android:layout_gravity="center"
+                android:text="@string/twoButton" />
+
+            <Button
+                android:id="@+id/threeButton"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:text="@string/threeButton" />
+
+            <Button
+                android:id="@+id/plusButton"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:backgroundTint="#888181"
+                android:gravity="center"
+                android:text="@string/plusSymbol" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="117dp"
+            app:layout_constraintBottom_toBottomOf="parent">
+
+            <Button
+                android:id="@+id/negateButton"
+                android:layout_width="wrap_content"
+                android:layout_height="85dp"
+                android:layout_gravity="center"
+                android:text="@string/negateButton" />
+
+            <Button
+                android:id="@+id/zeroButton"
+                android:layout_width="wrap_content"
+                android:layout_height="85dp"
+                android:layout_gravity="center"
+                android:text="@string/zeroText" />
+
+            <Button
+                android:id="@+id/decimalButton"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:text="@string/decimalButton"
+                android:textAlignment="center"
+                android:textSize="23sp" />
+
+            <Button
+                android:id="@+id/equalsButton"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:backgroundTint="#D84242"
+                android:gravity="center"
+                android:text="@string/equalsButton" />
+
+        </TableRow>
+
+    </TableLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

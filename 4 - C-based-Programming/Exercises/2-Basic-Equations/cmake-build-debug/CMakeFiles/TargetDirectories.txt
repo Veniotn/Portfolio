@@ -1,0 +1,3 @@
+C:/Users/nick/Documents/GitHub/School Portfolio/C-based-Programming/Exercises/2-Basic-Equations/cmake-build-debug/CMakeFiles/EX2.dir
+C:/Users/nick/Documents/GitHub/School Portfolio/C-based-Programming/Exercises/2-Basic-Equations/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nick/Documents/GitHub/School Portfolio/C-based-Programming/Exercises/2-Basic-Equations/cmake-build-debug/CMakeFiles/rebuild_cache.dir

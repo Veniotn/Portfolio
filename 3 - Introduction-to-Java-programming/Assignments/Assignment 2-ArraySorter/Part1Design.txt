@@ -1,0 +1,44 @@
+import arrays;
+
+class Part1Encryption{
+    main(String[] argumengts){
+        set ascii range of upper and lowerCase;
+        set multiple boolean flags for function calls to false;
+        set key;
+        set minWordSize;
+
+        check if minWordLength has been set, if so pass those inputs to the next step, if not,
+        store them as is and print normally at the end result;
+
+        if statement to check what has been typed in args[0]{
+            if "encrypt" then encrypt boolean = true;
+        }
+        else if(args[0] = decrypt){
+            then decrypt boolean = true;
+
+        }
+        else{
+            print error message
+        }
+
+
+        if(encrypt equals true){
+            for (loop scanning each index of the args array for the length of the array){
+                change text string to integer ascii values;
+                add value of key to the ascii value of the string;
+                if(ascii value goes past the top range of upper/lowercase values){
+                    find the remainder and than add back the bottom range of upper/lowercase;
+                    get final ascii value of encrypted string;
+                    print("your encrypted data: " + encrypted_result)
+                } 
+            }
+        }
+
+        if(decrypt equals true){
+            do the same as encrypt but in reverse;
+            print("your decrypted data: " + decrypted_result)
+        }
+
+    }
+
+}

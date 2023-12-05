@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ResultScreen">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#2D2F31"
+        android:padding="5dp">
+
+        <TableRow
+            android:id="@+id/resultView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/finalScoreView"
+                android:layout_width="404dp"
+                android:layout_height="250dp"
+                android:layout_span="1"
+                android:autoSizeMaxTextSize="25sp"
+                android:autoSizeMinTextSize="13sp"
+                android:autoSizeStepGranularity="2sp"
+                android:autoSizeTextType="uniform"
+                android:gravity="center"
+                android:text="@string/scoreText"
+                android:textColor="#EED0D0" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:id="@+id/resultTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="240dp"
+                android:gravity="center"
+                android:text="TextView"
+                android:textColor="#EED0D0"
+                android:textSize="30sp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <Button
+                android:id="@+id/retryQuizButton"
+                android:layout_width="wrap_content"
+                android:layout_height="150dp"
+                android:backgroundTint="#8D973737"
+                android:text="@string/retryQuizText"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/mainMenuButton"
+                android:layout_width="400dp"
+                android:layout_height="80dp"
+                android:backgroundTint="#7E4C9F"
+                android:text="@string/mainMenuText"
+                android:textColor="#0C0C0C" />
+        </TableRow>
+
+    </TableLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

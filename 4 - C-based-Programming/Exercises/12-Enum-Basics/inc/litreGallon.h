@@ -1,0 +1,12 @@
+#ifndef EX12_LITREGALLON_H
+#define EX12_LITREGALLON_H
+
+//#define LOCALE 2
+#define US_GALLONS 3.785
+#define UK_GALLONS 4.546
+
+
+#define LITRE_TO_US_GALLON_CONVERT(litres)(litres / US_GALLONS)
+#define LITRE_TO_UK_GALLON_CONVERT(litres)(litres / UK_GALLONS)
+
+#endif //EX12_LITREGALLON_H

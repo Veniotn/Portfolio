@@ -1,0 +1,138 @@
+﻿<Window x:Class="PROG2500_A2_Chinook.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PROG2500_A2_Chinook"
+        mc:Ignorable="d"
+        Title="Chinook Music Store" Height="720" Width="1200" Loaded="Window_Loaded">
+
+    <Window.Resources>
+        <ResourceDictionary>
+            <!--Navigation icons-->
+            <BitmapImage x:Key="home"       UriSource="/images/home.png"/>
+            <BitmapImage x:Key="artists"    UriSource="/images/artist.png"/>
+            <BitmapImage x:Key="albums"     UriSource="/images/album.png"/>
+            <BitmapImage x:Key="tracks"     UriSource="/images/tracks.png"/>
+            <BitmapImage x:Key="exit"       UriSource="/images/exit.png"/>
+            <BitmapImage x:Key="catalog"    UriSource="/images/catalog.png"/>
+            <BitmapImage x:Key="orders"     UriSource="/images/orders.png"/>
+
+            <!--tool tip text, used on both the top navbar and left icons-->
+            <ToolTip     x:Key="home_tip"    Content="Home Page"/>
+            <ToolTip     x:Key="artist_tip"  Content="View All Artists"/>
+            <ToolTip     x:Key="album_tip"   Content="View All Albums"/>
+            <ToolTip     x:Key="track_tip"   Content="View All Tracks"/>
+            <ToolTip     x:Key="catalog_tip" Content="View Music Catalog"/>
+            <ToolTip     x:Key="orders_tip"  Content="View Customer Orders"/>
+        </ResourceDictionary>
+    </Window.Resources>
+
+    <!--main grid of application -->
+    <Grid Style="{StaticResource mainGrid}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="67*"/>
+            <ColumnDefinition Width="333*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="18*"/>
+            <RowDefinition Height="299*"/>
+        </Grid.RowDefinitions>
+
+        <!--stack that holds everything in the application-->
+        <StackPanel x:Name="main_stack" Grid.RowSpan="2" Grid.ColumnSpan="2">
+            <Menu x:Name="top_bar" Height="38">
+                <MenuItem x:Name="file_bar" Header="File" FontSize="25" Width="71">
+                    <MenuItem x:Name="exit_bar" Header="Exit" Click="exit_bar_Click" ToolTip="Exit">
+                        <MenuItem.Icon>
+                            <Image Source="{StaticResource exit}"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                </MenuItem>
+                <MenuItem x:Name="pages_bar" Style="{StaticResource menuItemStyle}" Header="Pages" >
+                    <MenuItem x:Name="home_bar" Header="Home" Click="home_Click" ToolTip="{StaticResource home_tip}">
+                        <MenuItem.Icon>
+                            <Image Source="{StaticResource home}"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem x:Name="artists_bar" Header="View Artists" Click="artists_Click" ToolTip="{StaticResource artist_tip}">
+                        <MenuItem.Icon>
+                            <Image Source="{StaticResource artists}"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem x:Name="album_bar" Header="View Albums" Click="albums_Click" ToolTip="{StaticResource album_tip}">
+                        <MenuItem.Icon>
+                            <Image Source="{StaticResource albums}"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem x:Name="tracks_bar" Header="View Tracks" Click="tracks_Click" ToolTip="{StaticResource track_tip}">
+                        <MenuItem.Icon>
+                            <Image Source="{StaticResource tracks}"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem x:Name="catalog_bar" Header="View Catalog" Click="catalog_Click" ToolTip="{StaticResource catalog_tip}">
+                        <MenuItem.Icon>
+                            <Image Source="{StaticResource catalog}"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem x:Name="orders_bar" Header="View Orders" Click="orders_Click" ToolTip="{StaticResource orders_tip}">
+                        <MenuItem.Icon>
+                            <Image Source="{StaticResource orders}"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+
+                </MenuItem>
+            </Menu>
+            <!--Application header text-->
+            <TextBlock Text="Welcome to the Chinook Music Store!" Style="{StaticResource pageHeaderStyle}" Foreground="LightGreen" HorizontalAlignment="Right"/>
+
+            <ScrollViewer Style="{StaticResource scrollViewerStyle}">
+
+                <StackPanel x:Name="left_panel" Style="{StaticResource leftPanel}"   >
+
+                    <Button  x:Name="home" Click="home_Click" ToolTip="{StaticResource home_tip}">
+                        <Image Source="{StaticResource home}"/>
+                    </Button>
+
+                    <Button x:Name="artists" Click="artists_Click" ToolTip="{StaticResource artist_tip}">
+                        <Image Source="{StaticResource artists}"/>
+                    </Button>
+
+                    <Button x:Name="albums" Click="albums_Click" ToolTip="{StaticResource album_tip}">
+                        <Image Source="{StaticResource albums}"/>
+                    </Button>
+
+                    <Button x:Name="tracks" Click="tracks_Click" ToolTip="{StaticResource track_tip}">
+                        <Image Source="{StaticResource tracks}"/>
+                    </Button>
+
+                    <Button x:Name="catalog" Click="catalog_Click" ToolTip="{StaticResource catalog_tip}">
+                        <Image Source="{StaticResource catalog}"/>
+                    </Button>
+
+                    <Button x:Name="orders" Click="orders_Click" ToolTip="{StaticResource orders_tip}">
+                        <Image Source="{StaticResource orders}"/>
+                    </Button>
+
+                </StackPanel>
+            </ScrollViewer>
+
+            <!--panel holding the main navigation buttons-->
+        </StackPanel>
+
+        <!-- frame to hold all of our pages -->
+        <Frame x:Name="mainFrame" Style="{StaticResource mainFrame}" Grid.Column="1" Margin="0,45,0,0" Grid.Row="1"/>
+
+    </Grid>
+</Window>
+
+<!--
+    Sources for images:  
+        Home:   <a href="https://www.flaticon.com/free-icons/home-button" title="home button icons">Home button icons created by Freepik - Flaticon</a>
+        artist: <a href="https://www.flaticon.com/free-icons/artist" title="artist icons">Artist icons created by th studio - Flaticon</a>
+        albums: <a href="https://www.flaticon.com/free-icons/album" title="album icons">Album icons created by Those Icons - Flaticon</a>
+        tracks: <a href="https://www.flaticon.com/free-icons/ui" title="ui icons">Ui icons created by Metami septiana - Flaticon</a>
+        catalog:<a href="https://www.flaticon.com/free-icons/catalog" title="catalog icons">Catalog icons created by Uniconlabs - Flaticon</a>
+        orders: <a href="https://www.flaticon.com/free-icons/order" title="order icons">Order icons created by vectorsmarket15 - Flaticon</a>
+        exit:   <a href="https://www.flaticon.com/free-icons/logout" title="logout icons">Logout icons created by Pixel perfect - Flaticon</a>
+    -->

@@ -1,0 +1,3 @@
+B:/school/Current/C++/Assignments/2 - Rationals/cmake-build-debug/CMakeFiles/2___Rationals.dir
+B:/school/Current/C++/Assignments/2 - Rationals/cmake-build-debug/CMakeFiles/edit_cache.dir
+B:/school/Current/C++/Assignments/2 - Rationals/cmake-build-debug/CMakeFiles/rebuild_cache.dir

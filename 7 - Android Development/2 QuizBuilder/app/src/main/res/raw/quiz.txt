@@ -1,0 +1,10 @@
+This is the automatic reclamation (deterministically or non-deterministically) of memory occupied by objects that are no longer referenced (being used).$Garbage collection.
+What type of garbage collection does C++ employ?$Deterministic.
+When an object is created, its state can be initialized by this type of method. In most object-oriented languages, this method would have the same name as the class and would be created automatically if the programmer did not create one.$Constructor
+This is when we include objects as instance variables (members) of other classes.$Compositition  
+array<int,5>myArray={1,2,3,4,5}; is an example of the use of what?$Array Initialization.
+When creating an integer array, if there are fewer initializers than array elements, which of the following happens?$garbage data
+You would use this if an object is destroyed explicitly by applying the delete operator to a base-class pointer to the object, where the base-class destructor function (matching the pointer type) is called on the object, not the destructor most appropriate to the class being destroyed.$virtual base class destructor 
+C++ has this additional feature to establish the state of an object (the values in its properties at the time of instantiation) that is not a feature of all object-oriented languages$Initializer list.
+When you use the [ ] operator to access an array element that does not exist (is said to be 'out of bounds'), what occurs?$Undefined behavior occurs.
+The statement using namespace std means what?$all the names in the std namespace can be used without referring to the namespace manually in the code.

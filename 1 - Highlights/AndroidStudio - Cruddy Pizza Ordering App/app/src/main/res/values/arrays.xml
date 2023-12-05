@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="loginScreenEnglish">
+        <item>@string/frenchLabel</item>
+        <item>@string/welcomeMessageEN</item>
+        <item>@string/loginTextEN</item>
+        <item>@string/loginButtonTextEN</item>
+        <item>@string/createAccountTextEN</item>
+        <item>@string/bottomCopyrightTextEN</item>
+    </array>
+    <array name="loginScreenFrench">
+        <item>@string/englishLabel</item>
+        <item>@string/welcomeMessageFR</item>
+        <item>@string/loginTextFR</item>
+        <item>@string/loginButtonTextFR</item>
+        <item>@string/createAccountTextFR</item>
+        <item>@string/bottomCopyrightTextFR</item>
+    </array>
+    <array name="accountCreationEnglish">
+        <item>@string/backTextEN</item>
+        <item>@string/frenchLabel</item>
+        <item>@string/createAccountScreenTextEN</item>
+        <item>@string/firstNameCreateTextEN</item>
+        <item>@string/lastNameCreateTextEN</item>
+        <item>@string/loginTextEN</item>
+        <item>@string/createAccountTextEN</item>
+    </array>
+    <array name="accountCreationFrench">
+        <item>@string/backTextFR</item>
+        <item>@string/englishLabel</item>
+        <item>@string/createAccountScreenTextFR</item>
+        <item>@string/firstNameCreateTextFR</item>
+        <item>@string/lastNameCreateTextFR</item>
+        <item>@string/loginTextFR</item>
+        <item>@string/createAccountTextFR</item>
+    </array>
+
+
+    <array name="mainMenuEnglish">
+        <item>@string/frenchLabel</item>
+        <item>@string/welcomeUserTextEN</item>
+        <item>@string/createOrderTextEN</item>
+        <item>@string/viewOrderTextEN</item>
+        <item>@string/logoutTextEN</item>
+    </array>
+    <array name="mainMenuFrench">
+        <item>@string/englishLabel</item>
+        <item>@string/welcomeUserTextFR</item>
+        <item>@string/createOrderTextFR</item>
+        <item>@string/viewOrderTextFR</item>
+        <item>@string/logoutTextFR</item>
+    </array>
+
+    <array name="orderCreationEnglish">
+        <item>@string/frenchLabel</item>
+        <item>@string/backTextEN</item>
+        <item>@string/makePizzaTextEN</item>
+        <item>@string/sizePromptTextEN</item>
+        <item>@string/toppingOnePromptEN</item>
+        <item>@string/toppingTwoPromptEN</item>
+        <item>@string/toppingThreePromptEN</item>
+        <item>@string/confirmOrderTextEN</item>
+    </array>
+    <array name="orderCreationFrench">
+        <item>@string/englishLabel</item>
+        <item>@string/backTextFR</item>
+        <item>@string/makePizzaTextFR</item>
+        <item>@string/sizePromptTextFR</item>
+        <item>@string/toppingOnePromptFR</item>
+        <item>@string/toppingTwoPromptFR</item>
+        <item>@string/toppingThreePromptFR</item>
+        <item>@string/confirmOrderTextFR</item>
+
+    </array>
+
+    <array name="sizeOptionsEnglish">
+        <item>@string/sizeSmallTextEN</item>
+        <item>@string/sizeMediumTextEN</item>
+        <item>@string/sizeLargeTextEN</item>
+    </array>
+    <array name="sizeOptionsFrench">
+        <item>@string/sizeSmallTextFR</item>
+        <item>@string/sizeMediumTextFR</item>
+        <item>@string/sizeLargeTextFR</item>
+    </array>
+
+    <array name="toppingsEnglish">
+        <item>@string/sausageTextEN</item>
+        <item>@string/pepperoniTextEN</item>
+        <item>@string/baconTextEN</item>
+        <item>@string/tomatoTextEN</item>
+    </array>
+    <array name="toppingsFrench">
+        <item>@string/sausageTextFR</item>
+        <item>@string/pepperoniTextFR</item>
+        <item>@string/baconTextFR</item>
+        <item>@string/tomatoTextFR</item>
+    </array>
+
+    <array name="orderConfirmationEnglish">
+        <item>@string/frenchLabel</item>
+        <item>@string/orderConfirmedTextEN</item>
+        <item>@string/orderIdPromptTextEN</item>
+        <item>@string/orderDatePromptTextEN</item>
+        <item>@string/pizzaSizePromptTextEN</item>
+        <item>@string/toppingsPromptTextEN</item>
+        <item>@string/mainMenuTextEN</item>
+    </array>
+
+    <array name="orderConfirmationFrench">
+        <item>@string/englishLabel</item>
+        <item>@string/orderConfirmedTextFR</item>
+        <item>@string/orderIdPromptTextFR</item>
+        <item>@string/orderDatePromptTextFR</item>
+        <item>@string/pizzaSizePromptTextFR</item>
+        <item>@string/toppingsPromptTextFR</item>
+        <item>@string/mainMenuTextFR</item>
+    </array>
+
+    <array name="orderHistoryEnglish">
+        <item>@string/backTextEN</item>
+        <item>@string/frenchLabel</item>
+        <item>@string/orderHistoryTextEN</item>
+    </array>
+
+    <array name="orderHistoryFrench">
+        <item>@string/backTextFR</item>
+        <item>@string/englishLabel</item>
+        <item>@string/orderHistoryTextFR</item>
+    </array>
+
+    <array name="modifyOrderEnglish">
+        <item>@string/backTextEN</item>
+        <item>@string/frenchLabel</item>
+        <item>@string/modifyOrderTextEN</item>
+        <item>@string/sizePromptTextEN</item>
+        <item>@string/toppingOnePromptEN</item>
+        <item>@string/toppingTwoPromptEN</item>
+        <item>@string/toppingThreePromptEN</item>
+        <item>@string/confirmOrderTextEN</item>
+    </array>
+
+    <array name="modifyOrderFrench">
+        <item>@string/backTextFR</item>
+        <item>@string/englishLabel</item>
+        <item>@string/modifyOrderTextFR</item>
+        <item>@string/sizePromptTextFR</item>
+        <item>@string/toppingOnePromptFR</item>
+        <item>@string/toppingTwoPromptFR</item>
+        <item>@string/toppingThreePromptFR</item>
+        <item>@string/confirmOrderTextFR</item>
+    </array>
+
+    <array name="orderDetailsEN">
+        <item>@string/orderIdPromptTextEN</item>
+        <item>@string/pizzaSizePromptTextEN</item>
+        <item>@string/orderDatePromptTextEN</item>
+    </array>
+    <array name="orderDetailsFR">
+        <item>@string/orderIdPromptTextFR</item>
+        <item>@string/pizzaSizePromptTextFR</item>
+        <item>@string/orderDatePromptTextFR</item>
+    </array>
+</resources>

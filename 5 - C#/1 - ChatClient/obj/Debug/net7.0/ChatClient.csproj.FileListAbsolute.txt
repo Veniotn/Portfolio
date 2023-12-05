@@ -1,0 +1,15 @@
+B:\school\Current\C# OOP\Assignments\ChatClient\ChatClient\bin\Debug\net7.0\ChatClient.exe
+B:\school\Current\C# OOP\Assignments\ChatClient\ChatClient\bin\Debug\net7.0\ChatClient.deps.json
+B:\school\Current\C# OOP\Assignments\ChatClient\ChatClient\bin\Debug\net7.0\ChatClient.runtimeconfig.json
+B:\school\Current\C# OOP\Assignments\ChatClient\ChatClient\bin\Debug\net7.0\ChatClient.dll
+B:\school\Current\C# OOP\Assignments\ChatClient\ChatClient\bin\Debug\net7.0\ChatClient.pdb
+B:\school\Current\C# OOP\Assignments\ChatClient\ChatClient\obj\Debug\net7.0\ChatClient.csproj.AssemblyReference.cache
+B:\school\Current\C# OOP\Assignments\ChatClient\ChatClient\obj\Debug\net7.0\ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+B:\school\Current\C# OOP\Assignments\ChatClient\ChatClient\obj\Debug\net7.0\ChatClient.AssemblyInfoInputs.cache
+B:\school\Current\C# OOP\Assignments\ChatClient\ChatClient\obj\Debug\net7.0\ChatClient.AssemblyInfo.cs
+B:\school\Current\C# OOP\Assignments\ChatClient\ChatClient\obj\Debug\net7.0\ChatClient.csproj.CoreCompileInputs.cache
+B:\school\Current\C# OOP\Assignments\ChatClient\ChatClient\obj\Debug\net7.0\ChatClient.dll
+B:\school\Current\C# OOP\Assignments\ChatClient\ChatClient\obj\Debug\net7.0\refint\ChatClient.dll
+B:\school\Current\C# OOP\Assignments\ChatClient\ChatClient\obj\Debug\net7.0\ChatClient.pdb
+B:\school\Current\C# OOP\Assignments\ChatClient\ChatClient\obj\Debug\net7.0\ChatClient.genruntimeconfig.cache
+B:\school\Current\C# OOP\Assignments\ChatClient\ChatClient\obj\Debug\net7.0\ref\ChatClient.dll

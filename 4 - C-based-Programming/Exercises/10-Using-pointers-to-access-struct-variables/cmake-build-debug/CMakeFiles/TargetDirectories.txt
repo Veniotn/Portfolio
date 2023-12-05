@@ -1,0 +1,3 @@
+B:/school/Current/PROG/Exercises/ex10-Veniotn/cmake-build-debug/CMakeFiles/EX10.dir
+B:/school/Current/PROG/Exercises/ex10-Veniotn/cmake-build-debug/CMakeFiles/edit_cache.dir
+B:/school/Current/PROG/Exercises/ex10-Veniotn/cmake-build-debug/CMakeFiles/rebuild_cache.dir

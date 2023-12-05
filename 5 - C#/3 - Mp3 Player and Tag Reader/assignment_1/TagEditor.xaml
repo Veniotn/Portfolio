@@ -1,0 +1,62 @@
+﻿<UserControl x:Class="assignment_1.TagEditor"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:assignment_1"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="700">
+
+    <UserControl.Resources>
+
+        
+
+        <Style TargetType="Label">
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="Height" Value="112"/>
+            <Setter Property="Width" Value="124"/>
+            <Setter Property="FontSize" Value="30"/>
+            <Setter Property="Foreground" Value="Wheat"/>
+        </Style>
+
+        <Style TargetType="TextBox">
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="Opacity" Value="0.6"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="VerticalContentAlignment"   Value="Center"/>
+        </Style>
+
+
+    </UserControl.Resources>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="135*"/>
+            <ColumnDefinition Width="519*"/>
+            <ColumnDefinition Width="146*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="113*"/>
+            <RowDefinition Height="113*"/>
+            <RowDefinition Height="113*"/>
+            <RowDefinition Height="106*"/>
+            <RowDefinition Height="7*"/>
+        </Grid.RowDefinitions>
+        <Label x:Name="titleHeader" Content  = "Title: " Grid.Row="0" Width="134" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="-5,-18,0,56" Grid.RowSpan="2"/>
+        <Label x:Name="artistHeader" Content = "Artist: " Width="134" Margin="0,58,0,55" Grid.RowSpan="3"/>
+        <Label x:Name="albumHeader"  Content = "Album: " Grid.Row="1" Width="134" Margin="0,57,0,51" Grid.RowSpan="3"/>
+        <Label x:Name="yearHeader"   Content = "Year: " Grid.Row="2" Width="134" Margin="0,54,0,-16" Grid.RowSpan="3"/>
+        <TextBox x:Name="titleTag" Grid.Row="0" Margin="118,10,0,10" Grid.ColumnSpan="2" />
+        <TextBox x:Name="artistTag" Margin="118,15,0,12" Grid.Row="1" Grid.ColumnSpan="2" />
+        <TextBox x:Name="albumTag" Grid.Row="2" Margin="118,16,0,19" Grid.ColumnSpan="2" />
+        <TextBox x:Name="yearTag" Grid.Row="3" Margin="118,13,0,13" Grid.ColumnSpan="2" />
+
+        <Button Content="Save" Click="Save_Click" Grid.Row="3" Grid.Column="1" Background="Beige" Grid.ColumnSpan="2" Margin="454,0,0,0">
+
+        </Button>
+
+
+    </Grid>
+</UserControl>

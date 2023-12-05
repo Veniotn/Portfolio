@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Assignment_2" targetName="Assignment_2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a151126f-4307-412e-b3c9-b758da4eb107" name="Changes" comment="Ready for marking 1.2">
+      <change afterPath="$PROJECT_DIR$/../../../Capstone/project_code/.idea/project_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1/.idea/1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.2/.idea/3.2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.2/pdf/Assignment_3_Nick_Veniot_W0404614.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../practice/BinarySearchTreeOne/.idea/BinarySearchTreeOne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../practice/DataStructrures_Lectures/dynamic_arrays/.idea/dynamic_arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../practice/recursion/.idea/recursion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../practice/untitled2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../practice/untitled2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../practice/untitled2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../practice/untitled2/.idea/untitled2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../practice/untitled2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Emerging Technologies/Boxing_Machine_Project/.idea/Boxing_Machine_Project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assingment_2/src/FileOperator.h" beforeDir="false" afterPath="$PROJECT_DIR$/assingment_2/src/FileOperator.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assingment_2/src/Maze.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/assingment_2/src/Maze.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assingment_2/src/Maze.h" beforeDir="false" afterPath="$PROJECT_DIR$/assingment_2/src/Maze.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assingment_2/src/Queue.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/assingment_2/src/Queue.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assingment_2/src/Queue.h" beforeDir="false" afterPath="$PROJECT_DIR$/assingment_2/src/Queue.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assingment_2/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/assingment_2/src/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Emerging Technologies/Boxing_Machine_Project/Classes/Boxing_Machine.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Emerging Technologies/Boxing_Machine_Project/Classes/Boxing_Machine.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/assingment_2" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="2.2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2WbtY8imq2erKtaevEytNVWnYFn" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "B:/school/CurrentSemester/DataStructures/Assignments/3.2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.build",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="B:\school\CurrentSemester\DataStructures\Assignments\2\assingment_2" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Assignment_2" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="../tests/test.txt" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Assignment_2" TARGET_NAME="Assignment_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Assignment_2" RUN_TARGET_NAME="Assignment_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <module name="2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a151126f-4307-412e-b3c9-b758da4eb107" name="Changes" comment="" />
+      <created>1697013152148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697013152148</updated>
+      <workItem from="1697013156366" duration="233000" />
+      <workItem from="1697013390736" duration="3782000" />
+      <workItem from="1697143527954" duration="7981000" />
+      <workItem from="1697174501794" duration="843000" />
+      <workItem from="1697386154297" duration="47553000" />
+      <workItem from="1697516520120" duration="42444000" />
+      <workItem from="1697672751405" duration="1393000" />
+      <workItem from="1700386972703" duration="3266000" />
+    </task>
+    <task id="LOCAL-00001" summary="file reading working, basic classes setup">
+      <option name="closed" value="true" />
+      <created>1697394198466</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697394198466</updated>
+    </task>
+    <task id="LOCAL-00002" summary="file reading working, basic classes setup">
+      <option name="closed" value="true" />
+      <created>1697410024069</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697410024069</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Everything working, time to refactor">
+      <option name="closed" value="true" />
+      <created>1697499921222</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697499921222</updated>
+    </task>
+    <task id="LOCAL-00004" summary="methods cleaned up, file writing next">
+      <option name="closed" value="true" />
+      <created>1697571531175</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697571531175</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Ready for marking">
+      <option name="closed" value="true" />
+      <created>1697669518916</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697669518916</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Ready for marking 1.1">
+      <option name="closed" value="true" />
+      <created>1697672521730</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697672521730</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Ready for marking 1.2">
+      <option name="closed" value="true" />
+      <created>1697673263988</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1697673263988</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="file reading working, basic classes setup" />
+    <MESSAGE value="Everything working, time to refactor" />
+    <MESSAGE value="methods cleaned up, file writing next" />
+    <MESSAGE value="Ready for marking" />
+    <MESSAGE value="Ready for marking 1.1" />
+    <MESSAGE value="Ready for marking 1.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ready for marking 1.2" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="this" />
+        <watch expression="current_tile.c_previous_tile-&gt;c_previous_tile-&gt;c_previous_tile-&gt;c_previous_tile-&gt;c_previous_tile-&gt;c_previous_tile" />
+        <watch expression="current_tile.c_previous_tile-&gt;c_previous_tile-&gt;c_previous_tile-&gt;c_previous_tile-&gt;c_previous_tile-&gt;c_previous_tile" />
+        <watch expression="current_tile.c_previous_tile-&gt;c_previous_tile-&gt;c_previous_tile-&gt;c_previous_tile-&gt;c_previous_tile-&gt;c_previous_tile-&gt;c_previous_tile-&gt;c_previous_tile-&gt;c_previous_tile-&gt;c_previous_tile-&gt;c_previous_tile-&gt;c_previous_tile-&gt;c_previous_tile" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

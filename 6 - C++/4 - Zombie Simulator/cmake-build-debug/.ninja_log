@@ -1,0 +1,20 @@
+# ninja log v5
+13	862	7033923509909754	CMakeFiles/4_Zombies.dir/src/Zombie.cpp.obj	5511dd5005f106bd
+17	845	7033923509739590	CMakeFiles/4_Zombies.dir/src/Human.cpp.obj	5694848613e4267e
+11	95	7028691989281450	CMakeFiles/4_Zombies.dir/src/GameSpec.cpp.obj	2da2b387ec99a93b
+9	784	7033923509119027	CMakeFiles/4_Zombies.dir/src/City.cpp.obj	7baf45743ecba583
+4	766	7033923508918843	CMakeFiles/4_Zombies.dir/src/main.cpp.obj	4f266c1991fe8d2d
+2	177	7192029748615180	build.ninja	513f0676a8d5e5c6
+21	619	7033923507467529	CMakeFiles/4_Zombies.dir/src/Organism.cpp.obj	9fc506e494d92980
+862	988	7033923511130861	4_Zombies.exe	78ce7581cfe650a7
+33	1184	7032335098189326	CMakeFiles/4_Zombies.dir/src/Empty.cpp.obj	c21c578ae37ef89
+33	93	7192029792160337	CMakeFiles/4_Zombies.dir/src/GameSpec.cpp.obj	aeea7bfaa8282c4b
+49	625	7192029797451752	CMakeFiles/4_Zombies.dir/src/Empty.cpp.obj	378e92d2d41747bb
+40	716	7192029798366052	CMakeFiles/4_Zombies.dir/src/Organism.cpp.obj	1527f5cf99948e8d
+24	890	7192029800113580	CMakeFiles/4_Zombies.dir/src/main.cpp.obj	32fa34e6a4346613
+28	904	7192029800254599	CMakeFiles/4_Zombies.dir/src/City.cpp.obj	4a99b19e6b47ce74
+44	972	7192029800941966	CMakeFiles/4_Zombies.dir/src/Human.cpp.obj	9c9615ec5a1aca2d
+36	980	7192029801013866	CMakeFiles/4_Zombies.dir/src/Zombie.cpp.obj	a44eb33971e4fb57
+980	1133	7192029802525597	4_Zombies.exe	f46e480a09c1d782
+3	632	7192031916356117	CMakeFiles/4_Zombies.dir/src/main.cpp.obj	32fa34e6a4346613
+632	757	7192031917583440	4_Zombies.exe	f46e480a09c1d782

@@ -1,0 +1,13 @@
+The solution was found.
+SOMEK
+NOTHI
+SMOKY
+-----
+-----
+-----The solution was not found.
+ABCDE
+ABCDE
+ABCDE
+ABCDE
+ABCDE
+ABCDE

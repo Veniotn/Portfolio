@@ -1,0 +1,40 @@
+﻿<Page x:Class="PROG2500_A2_Chinook.Pages.Albums"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:PROG2500_A2_Chinook.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Albums">
+    
+    <!--enables data connectivity on this page-->
+    <Page.Resources>
+        <CollectionViewSource x:Key="albumViewSource"/>
+    </Page.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="37*"/>
+            <RowDefinition Height="413*"/>
+        </Grid.RowDefinitions>
+        
+        <!--header text / search bar-->
+        <StackPanel Style="{StaticResource searchBarStyle}" >
+            <TextBlock Style="{StaticResource pageHeaderStyle}" Text="Chinook Albums"/>
+            <TextBlock Style="{StaticResource searchHeaderStyle}" Text="Search Albums: "/>
+            <TextBox x:Name="albumSearchBox"/>
+            <Button x:Name="albumSearchButton" Content="Search" Click="albumSearchButton_Click"/>
+        </StackPanel>
+       
+        <!--albums data view-->
+        <ListView x:Name="albumSearchResults" Style="{StaticResource listViewStyle}" ItemsSource="{Binding Source={StaticResource albumViewSource}}">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="ID" DisplayMemberBinding="{Binding AlbumId}"/>
+                    <GridViewColumn Header="Album Name" DisplayMemberBinding="{Binding Title}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Page>

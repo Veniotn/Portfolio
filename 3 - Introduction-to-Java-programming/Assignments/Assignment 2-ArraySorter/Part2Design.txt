@@ -1,0 +1,30 @@
+import arrays;
+import scanner;
+
+class arraySorter{
+    set new scanner "scan";
+
+    main{
+        print("enter your favorite numbers");
+        scan for input and store as String 'numbers';
+        create string array 'numberstoSort' = to split up string;
+
+        create int array that is = to [length of numbersToSort]
+        use a for loop{
+            to scan each index of the array and switch them from string values to integer values;
+        } 
+
+        for (loop for entire length of our new int array ){
+            if the first index the loop scans is less than the second, keep it in its original space;{
+            else if(the first index is greater than the second one scanned, swap places, continuing for each index value)
+        }
+    }
+    take sorted integer array and switch back to string using
+        for loop(running through the length of sorted array){
+            switch back to string and store as arrayToPrint;
+            }
+            print("your sorted array: " + arrayToPrint);
+        
+    }
+}
+

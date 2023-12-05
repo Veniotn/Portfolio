@@ -1,0 +1,3 @@
+B:/school/Current/PROG/Exercises/14/cmake-build-debug/CMakeFiles/EX14.dir
+B:/school/Current/PROG/Exercises/14/cmake-build-debug/CMakeFiles/edit_cache.dir
+B:/school/Current/PROG/Exercises/14/cmake-build-debug/CMakeFiles/rebuild_cache.dir

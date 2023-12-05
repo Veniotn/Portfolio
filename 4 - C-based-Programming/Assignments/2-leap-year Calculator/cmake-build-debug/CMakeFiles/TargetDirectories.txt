@@ -1,0 +1,3 @@
+B:/school/Current/PROG/Assignments/2/cmake-build-debug/CMakeFiles/ASSIGN2.dir
+B:/school/Current/PROG/Assignments/2/cmake-build-debug/CMakeFiles/edit_cache.dir
+B:/school/Current/PROG/Assignments/2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

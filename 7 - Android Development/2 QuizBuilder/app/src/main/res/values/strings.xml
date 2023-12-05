@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">QuizBuilder</string>
+    <string name="enterNameString">Enter your name!</string>
+    <string name="startQuizText">START QUIZ</string>
+    <string name="welcomeMessage">Welcome to the NSCC Quiz Builder!</string>
+    <string name="definitionText">This is a test Definition used for testing.</string>
+    <string name="answer1Text">Answer1</string>
+    <string name="answer2Text">Answer2</string>
+    <string name="answer3Text">Answer3</string>
+    <string name="answer4Text">Answer4</string>
+    <string name="scoreText">Score: </string>
+    <string name="nextQuestionText">Confirm Answer</string>
+    <string name="emptyText" />
+    <string name="backText">Menu</string>
+    <string name="nameDefault">student</string>
+    <string name="mainMenuText">Main Menu</string>
+    <string name="retryQuizText">Retry Quiz</string>
+    <string name="slashSymbolText">/</string>
+    <string name="CORRECT_ANSWER">Correct answer!</string>
+    <string name="INCORRECT_ANSWER">Incorrect answer!</string>
+    <string name="nameText">Name</string>
+    <string name="nameEndText">\'s</string>
+    <string name="emptySpace">&#32;</string>
+    <string name="percentSymbol">%</string>
+</resources>

@@ -1,0 +1,3 @@
+B:/school/Current/PROG/Exercises/ex16-Veniotn/cmake-build-debug/CMakeFiles/EX16.dir
+B:/school/Current/PROG/Exercises/ex16-Veniotn/cmake-build-debug/CMakeFiles/edit_cache.dir
+B:/school/Current/PROG/Exercises/ex16-Veniotn/cmake-build-debug/CMakeFiles/rebuild_cache.dir
