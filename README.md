@@ -1,7 +1,7 @@
 # Readme
 
 
-Thank you for taking the time to view my portfolio. This repo contains all the assignment programs that I've made during my time at NSCC.
+Thank you for taking the time to view my portfolio. This repo contains all the programs that I've made during my time at NSCC.
 
 I placed each folder in chonological order from my first programming course forward. Before joining NSCC I never thought I would be able to learn how to code, however I hope this document shows my progression from not knowing what an int is to now.
 
